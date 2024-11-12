@@ -153,20 +153,7 @@
                 },
             }">+63 938 156 7273</p>
 
-            <p v-motion
-            :initial="{
-                opacity: 0,
-                y:20
-            }"
-            :visibleOnce="{
-                opacity: 1,
-                y:0,
-                transition: {
-                delay:1400,
-                duration: 400,
-                ease: 'easeInOut'
-                },
-            }">Designed and Built by Jeffrey Romerosa</p>
+           
 
         </div>
 

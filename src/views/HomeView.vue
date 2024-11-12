@@ -4,7 +4,6 @@
     <HomeSection />
     <About />
     <Projects />
-    <Blog />
     <Contact />
   </div>
 </template>
