@@ -34,7 +34,7 @@
                         <img class="img-fluid rounded-3" src="../assets/LoginSignup.PNG" alt="Login Page">
                     </div>
                         <h3>Signin And Signup Website</h3>
-                        <p>My sign in and sign up website made using made with html, javascript and css. Also, integrated with bootstrap for the responsiveness of it.</p>
+                        <p>My sign in and sign up website made using html, javascript and css. Also, integrated with bootstrap for the responsiveness of it.</p>
             </div>
 
 

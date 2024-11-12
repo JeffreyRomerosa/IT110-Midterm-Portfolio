@@ -166,7 +166,7 @@
                 duration: 400,
                 ease: 'easeInOut'
                 },
-            }">Designed and Built by Andrew Muchiri</p>
+            }">Designed and Built by Jeffrey Romerosa</p>
 
         </div>
 
