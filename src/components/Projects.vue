@@ -202,6 +202,7 @@ export default {
 <style scoped>
 #wrapper3 {
     background: #0a192f;
+    min-height: 100vh;
     height: max-content;
     display: flex;
     flex-direction: column;

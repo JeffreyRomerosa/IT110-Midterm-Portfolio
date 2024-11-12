@@ -11,7 +11,7 @@
                 duration: 800,
                 ease: 'easeInOut'
                 },
-            }" class=""><span>02.</span> About Me</h2>
+            }" class="mb-5"><span>02.</span> About Me</h2>
 
 
         <div v-motion
